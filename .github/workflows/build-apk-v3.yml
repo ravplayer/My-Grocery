@@ -1,4 +1,4 @@
-name: Build My Market APK v3name: Build My Market APK v3
+name: Build My Market APK v3
 
 on:
   workflow_dispatch:
